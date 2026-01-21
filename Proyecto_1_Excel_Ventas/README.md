@@ -11,3 +11,7 @@ Analizar las ventas mensuales de un pequeño negocio para identificar productos 
 - Uso de fórmulas básicas
 - Organización y resumen de información
 
+## Resultados
+- Identificación de productos con mayor ingreso
+- Detección de la categoría más rentable
+- Recomendaciones para optimizar ventas
